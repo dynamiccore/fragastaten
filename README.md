@@ -28,3 +28,6 @@ To run tests, in the Alaveteli Rails.root (with this theme installed):
 
 
 Copyright (c) 2011 mySociety, released under the MIT license
+
+
+Edited by Merxhan
